@@ -2,9 +2,7 @@
 
 <h3>Análisis de Datos - Machine Learning - Big Data</h3>
 
-Consutor BI - / ![No se carga imágen]([https://drive.google.com/file/d/1WiHeQSqewS4WPWblBZ2AJ0al8FrWJoup/view?usp=sharing])<br>
-
-![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Big_Data_Ruiz_Laura.jpg)
+Consutor BI - / ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Consultor_BI.jpg)
 
 Análisis de Datos de Google - / ![Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
 Big Data (Ciencia de Datos) - / ![Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
