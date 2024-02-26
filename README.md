@@ -2,8 +2,8 @@
 
 <h3>Análisis de Datos - Machine Learning - Big Data</h3>
 
-Consutor BI - / ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Consultor%20BI.jpg)
-Analisis de Datos de Google - / ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Analista%20de%20Datos%20de%20Google.jpg)
+Consutor BI ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Consultor%20BI.jpg)
+Analisis de Datos de Google ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Analista%20de%20Datos%20de%20Google.jpg)
 
 
 
