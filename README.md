@@ -4,7 +4,7 @@
 
 Consutor BI - / ![No se carga imágen]([https://drive.google.com/file/d/1WiHeQSqewS4WPWblBZ2AJ0al8FrWJoup/view?usp=sharing])<br>
 
-![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Laura_Paola_Ruiz_Rodriguez_Consultor_BI.pdf)
+![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Big_Data_Ruiz_Laura.jpg)
 
 Análisis de Datos de Google - / ![Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
 Big Data (Ciencia de Datos) - / ![Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
