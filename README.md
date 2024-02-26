@@ -2,18 +2,14 @@
 
 <h3>Análisis de Datos - Machine Learning - Big Data</h3>
 
-Consutor BI ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Consultor%20BI.jpg)
-Analisis de Datos de Google ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Analista%20de%20Datos%20de%20Google.jpg)
-
-
-
-Análisis de Datos de Google - / ![Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
-Big Data (Ciencia de Datos) - / ![Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
-Inglés EF - / ![Documento]([https://drive.google.com/file/d/11PmtMlg-IRiUjVLQfH_ekl68hOJ0ygHg/view?usp=sharing])<br>
-Estadística USP Education - / ![Documento]([https://drive.google.com/file/d/1sNwOZXHmYzdqGlSaRXznG66-2KdZT4x7/view?usp=sharing])<br>
-Using Python to Access Web Data - ![Documento]([https://drive.google.com/file/d/1NkT-BAjJrY_-PzquVIICm8nlZL2l40mb/view?usp=sharing])<br>
-Programing for Everybody - ![Documento]([https://drive.google.com/file/d/1zk91XxKr8LyggyvU35AX6PPi5ZPORO2p/view?usp=sharing])<br>
-Python Data Structures - ![Documento]([https://drive.google.com/file/d/1_PlSCexVs2Md_EmZEncDIg1v_tOI_Z_R/view?usp=sharing])<br>
+Consutor BI ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Consultor%20BI.jpg)<br>
+Analisis de Datos de Google ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Analista%20de%20Datos%20de%20Google.jpg)<br>
+Big Data (Ciencia de Datos) - / ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Big%20Data%20Ruiz%20Laura.jpg)<br>
+Inglés EF - / ![No carga la imagen]([https://github.com/ruizrlaurap0704/Certificados/blob/main/EF%20SET%20Certificate.jpg])<br>
+Estadística USP Education - / ![No carga la imagen]([https://drive.google.com/file/d/1sNwOZXHmYzdqGlSaRXznG66-2KdZT4x7/view?usp=sharing])<br>
+Using Python to Access Web Data - ![No carga la imagen]([https://drive.google.com/file/d/1NkT-BAjJrY_-PzquVIICm8nlZL2l40mb/view?usp=sharing])<br>
+Programing for Everybody - ![No carga la imagen]([https://drive.google.com/file/d/1zk91XxKr8LyggyvU35AX6PPi5ZPORO2p/view?usp=sharing])<br>
+Python Data Structures - ![No carga la imagen]([https://drive.google.com/file/d/1_PlSCexVs2Md_EmZEncDIg1v_tOI_Z_R/view?usp=sharing])<br>
 
 <h3>Desarrollo Web</h3>
 
