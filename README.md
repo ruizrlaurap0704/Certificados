@@ -13,6 +13,6 @@ Python Data Structures - ![No carga la imagen](https://github.com/ruizrlaurap070
 
 <h3>Desarrollo Web</h3>
 
-Full Stack - Python [No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Full%20Stack%20Python%20Ruiz%20Laura.jpg)<br>
-Desarrollo Web Digital House [No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Desarrollo%20Web%20Digital%20House.jpg)<br>
+Full Stack - Python ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Full%20Stack%20Python%20Ruiz%20Laura.jpg)<br>
+Desarrollo Web Digital House ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Desarrollo%20Web%20Digital%20House.jpg)<br>
 Desarrollo Web UTN ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/DesarolloWebUTN.jpg)<br>
