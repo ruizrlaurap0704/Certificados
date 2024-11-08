@@ -9,7 +9,7 @@ Desarrolllo Web UTN - ![No carga la imagen](https://github.com/ruizrlaurap0704/C
 
 <h3>Análisis de Datos - Machine Learning - Big Data</h3>
 
-Tecnologas con Experiencia en la IA - ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Certificado_N4_-_Tecno_con_experiencia_en_la_IA.pdf)<br>
+Tecnologas con Experiencia en la IA - ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/tecnologas%20en%20IA.jpg)<br>
 Consutor BI - ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Consultor%20BI.jpg)<br>
 Analisis de Datos de Google - ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Analista%20de%20Datos%20de%20Google.jpg)<br>
 Big Data (Ciencia de Datos) - ![No carga la imagen](https://github.com/ruizrlaurap0704/Certificados/blob/main/Big%20Data%20Ruiz%20Laura.jpg)<br>
